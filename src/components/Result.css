@@ -1,0 +1,16 @@
+.result {
+  padding-left: 30px;
+  padding-bottom: 20px;
+  text-align: left;
+  margin-right: 50px;
+  margin-left: 50px;
+  padding-top: 20px;
+  font-family: freight-display-pro, serif;
+}
+
+.result h3, .result h4 {
+  font-weight: normal;
+}
+.result em {
+  font-weight: bold;
+}

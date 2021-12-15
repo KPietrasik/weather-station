@@ -1,0 +1,10 @@
+.input {
+  font-family: freight-display-pro, serif;
+	font-weight: 900;
+  font-size: 20px;
+	width: auto;
+	height: 65px;
+	color: #fff;
+  background-color: black;
+  padding: 15px;
+}

@@ -2,9 +2,8 @@
   text-align: center;
   background-color: black;
   color: whitesmoke;
-  height: auto;
+  height: 100vh;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -26,6 +25,8 @@
   color: white;
 }
 
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -34,3 +35,39 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  display:flex;
+  height: auto;
+  background-color: black;
+}
+.sidebar {
+  width: 50%;
+  float: left;
+}
+.rightbar {
+  width: 50%;
+  float: left;
+}
+
+.button {
+	font-family: freight-display-pro, serif;
+	font-weight: 900;
+  font-size: 20px;
+	width: auto;
+	height: 100px;
+	color: #fff;
+  background-color: black;
+  padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
