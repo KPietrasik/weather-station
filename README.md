@@ -1,3 +1,6 @@
+Aplikacja z dwoma API. Po kliknięciu w przycisk wyświetlają się dane z API, zaś po wpisaniu nazwy miasta w input pobierane są aktualne dane o pogodzie.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
